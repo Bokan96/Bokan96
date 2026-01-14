@@ -28,13 +28,6 @@ Professional software developer with extensive experience in game design and mat
 
 ---
 
-## Development Statistics
-
-![Bojan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bokan96&show_icons=true&theme=omni&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bokan96&layout=compact&theme=omni&hide_border=true)
-
----
-
 ## Featured Projects
 
 ### [Village Pillage](https://bokan96.github.io/VillagePillage/)

@@ -8,7 +8,7 @@ Professional software developer with extensive experience in game design and mat
 - **Current Focus**: WebGL development for strategic board games and Android implementation of original game designs.
 - **Technical Expertise**: Unity (C#), JavaScript, and Mobile Development (Kotlin/Java).
 - **Core Strengths**: Systems design, mathematical probability modeling, and community-driven iterative development.
-- **Contact**: [bozovic.bokan@gmail.com](mailto:bozovic.bokan@gmail.com)
+- **Contact**: [contact@bojanbozovic.com](mailto:contact@bojanbozovic.com)
 
 ---
 

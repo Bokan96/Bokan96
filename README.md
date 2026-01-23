@@ -46,4 +46,4 @@ An automation tool for the game Slice & Dice, utilizing save file analysis to op
 
 ## Professional Links
 
-[Portfolio Website](https://bokan96.github.io/) • [LinkedIn Profile](https://www.linkedin.com/in/bojan-bozovic) • [Email Contact](mailto:bozovic.bokan@gmail.com)
+[Portfolio Website](https://bokan96.github.io/) • [LinkedIn Profile](https://www.linkedin.com/in/bojan-bozovic) • [Email Contact](mailto:contact@bojanbozovic.com)

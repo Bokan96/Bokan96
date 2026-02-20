@@ -5,7 +5,7 @@
 
 Professional software developer with extensive experience in game design and mathematical problem-solving. My background includes a decade of development across web, desktop, and mobile platforms, with a core focus on crafting engaging player experiences and balanced game economies.
 
-- **Current Focus**: WebGL development for strategic board games and Android implementation of original game designs.
+- **Current Focus**: WebGL development for strategic board games and tool automation.
 - **Technical Expertise**: Unity (C#), JavaScript, and Mobile Development (Kotlin/Java).
 - **Core Strengths**: Systems design, mathematical probability modeling, and community-driven iterative development.
 - **Contact**: [contact@bojanbozovic.com](mailto:contact@bojanbozovic.com)
@@ -34,9 +34,9 @@ Professional software developer with extensive experience in game design and mat
 A WebGL adaptation of the strategic board game, focusing on complex resource management and player-versus-player dynamics.
 - **Technologies**: JavaScript, WebGL, Custom State Management
 
-### [Trifacto](https://github.com/Bokan96)
-A digital implementation of an original physical board game design. Represents a full development lifecycle from paper prototyping to a production-ready Android application.
-- **Technologies**: Android, Kotlin, Gradle
+### [Igg Debloater](https://github.com/Bokan96)
+A Tampermonkey user script to completely overhaul the UI/UX of a major gaming site. Features include layout restructuring, ad removal, automated metadata cleanup, and Real-Debrid download link highlighting.
+- **Technologies**: JavaScript, Tampermonkey
 
 ### [SnD Pick Tool](https://github.com/Bokan96/snd-autobalance)
 An automation tool for the game Slice & Dice, utilizing save file analysis to optimize hero pools and strategic variety.

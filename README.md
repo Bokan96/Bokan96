@@ -30,9 +30,9 @@ Professional software developer with extensive experience in game design and mat
 
 ## Featured Projects
 
-### [Village Pillage](https://bokan96.github.io/VillagePillage/)
-A WebGL adaptation of the strategic board game, focusing on complex resource management and player-versus-player dynamics.
-- **Technologies**: JavaScript, WebGL, Custom State Management
+### [Build Order](https://bojanbozovic.com/Build-Order/web/)
+A Pyodide implementation of a perfect-information strategy game with a 2-player mode available locally or vs AI. Features zero RNG is inspired by games such as Dominion or Prismata.
+- **Technologies**: Python, Pyodide, Game Engine Architecture
 
 ### [Igg Debloater](https://github.com/Bokan96)
 A Tampermonkey user script to completely overhaul the UI/UX of a major gaming site. Features include layout restructuring, ad removal, automated metadata cleanup, and Real-Debrid download link highlighting.

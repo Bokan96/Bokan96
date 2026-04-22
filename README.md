@@ -34,7 +34,7 @@ Professional software developer with extensive experience in game design and mat
 A Pyodide implementation of a perfect-information strategy game with a 2-player mode available locally or vs AI. Features zero RNG is inspired by games such as Dominion or Prismata.
 - **Technologies**: Python, Pyodide, Game Engine Architecture
 
-### [Igg Debloater](https://github.com/Bokan96)
+### [Igg Debloater](https://github.com/Bokan96/igg-debloater)
 A Tampermonkey user script to completely overhaul the UI/UX of a major gaming site. Features include layout restructuring, ad removal, automated metadata cleanup, and Real-Debrid download link highlighting.
 - **Technologies**: JavaScript, Tampermonkey
 
